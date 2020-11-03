@@ -1,1 +1,1 @@
-console.log("Contributing to GitHub!")
+console.log("Contributing to GitHub!");
